@@ -11,7 +11,7 @@ It is a plain Html page with just a h1 heading and styling.
 
 # Screenshot
 
-![first-project](https://user-images.githubusercontent.com/74814780/129541201-a45ef7c7-c467-45e1-bd24-e04f0cd94007.png)
+![image](https://user-images.githubusercontent.com/74814780/174624091-0a19be78-98b3-41cd-8d28-ce8879b8068d.png)
 
 # Features
 
