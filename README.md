@@ -7,7 +7,7 @@ This is a Microverse project titled "Hello Microverse Project".
 It is a plain Html page with just a h1 heading and styling.
 
 # Live link
-[Demo link](https://ugboaja-uchechi.github.io/Hello-World/)
+[Demo link](https://ugboaja-uchechi.github.io/hello-microverse-review/)
 
 # Screenshot
 
